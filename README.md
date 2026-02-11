@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ken Flynn
 
-__Senior Data Engineer & Founder of Flynn Data Services LLC__
+### __Senior Data Engineer & Founder of Flynn Data Services LLC__
 
 I’m a technical "cord-cutter" for scaling companies. I specialize in taking tangled, expensive data messes and turning them into production-grade systems that just work.
 
