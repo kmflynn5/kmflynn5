@@ -26,7 +26,7 @@ I operate an independent data practice dedicated to helping B2B companies move p
 
 ## 📫 Get in Touch
 
-- LinkedIn: https://www.google.com/search?q=https://www.linkedin.com/in/kmflynn5/
+- LinkedIn: https://www.linkedin.com/in/kmflynn5/
 - Email: ken@aidaptable.us
 
 *Currently taking select advisory clients who are ready to simplify and scale.*
