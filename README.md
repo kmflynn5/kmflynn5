@@ -12,17 +12,17 @@ I operate an independent data practice dedicated to helping B2B companies move p
 
 ### What I Solve:
 
-- Untangling Revenue Pipelines: Moving beyond no-code quick fixes to build high-velocity, near real-time CRM ingestion and identity resolution systems that your sales team can actually trust.
-- Infrastructure "Cord Cutting" (FinOps): Identifying architectural waste to cut infrastructure and SaaS middleware spend.
-- Hardening Intelligence: Taking experimental models (like B2B churn prediction) and moving them into secure and scalable production environments.
-- Developer Experience (DX): Streamlining internal codebases and CI/CD gates so teams can confidently ship data products to both internal and external stakeholders.
+- __Untangling Revenue Pipelines__: Moving beyond no-code quick fixes to build high-velocity, near real-time CRM ingestion and identity resolution systems that your sales team can actually trust.
+- __Infrastructure "Cord Cutting" (FinOps)__: Identifying architectural waste to cut infrastructure and SaaS middleware spend.
+- __Hardening Intelligence__: Taking experimental models (like B2B churn prediction) and moving them into secure and scalable production environments.
+- __Developer Experience (DX)__: Streamlining internal codebases and CI/CD gates so teams can confidently ship data products to both internal and external stakeholders.
 
 ## 🚀 Technical Focus
 
-- Languages: Python, SQL, Go, (or whatever works)
-- Infrastructure: Google Cloud Platform (GCP), AWS, Snowflake, Airflow, dbt
-- Intelligence: Agentic Workflows & LLM Orchestration, Serverless ML Inference, Churn Prediction Modeling
-- Engineering Standards: uv for dependency management, pytest for infrastructure hardening, and custom Reverse ETL patterns.
+- __Languages__: Python, SQL, Go, (or whatever works)
+- __Infrastructure__: Google Cloud Platform (GCP), AWS, Snowflake, Airflow, dbt
+- __Intelligence__: Agentic Workflows & LLM Orchestration, Serverless ML Inference, Churn Prediction Modeling
+- __Engineering Standards__: uv for dependency management, pytest for infrastructure hardening, and custom Reverse ETL patterns.
 
 ## 📫 Get in Touch
 
